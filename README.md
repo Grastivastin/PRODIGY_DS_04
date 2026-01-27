@@ -1,4 +1,4 @@
-# Task 04 – Sentiment Analysis
+#  Sentiment Analysis
 
 ## Objective
 To analyze textual data and determine sentiment polarity using basic natural
